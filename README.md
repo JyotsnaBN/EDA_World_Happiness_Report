@@ -1,4 +1,4 @@
-# HappinessProject
+# EDA of World Happiness Report
 We use a dataset that gives the happiness rank and happiness score of 155 countries around the world based on seven factors 
 including family, life expectancy, economy, generosity, trust in government, freedom, and dystopia residual. 
 Sum of the value of these seven factors gives us the happiness score and the higher the happiness score, the lower the 
